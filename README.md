@@ -1,4 +1,6 @@
-## Welcome to awesome game of Tetris
+
+## Welcome to the world of github games
+## Welcome to the awesome game of Tetris
 
 A project based learning activity for people who are getting started with Git and GitHub.
 You can play the game at: https://pucoy332.github.io/github-games/
